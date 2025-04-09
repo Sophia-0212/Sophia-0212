@@ -1,7 +1,7 @@
 # 👋 你好，我是 mimi
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=欢迎来到我的+GitHub+个人主页！;我热爱编程和技术&color=70A5FD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=欢迎来到我的+GitHub+个人主页！;我热爱编程和技术&color=61dafb" alt="Typing SVG" />
 </div>
 
 ## 🚀 关于我
@@ -16,42 +16,42 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sophia-0212&show_icons=true&theme=buefy" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Sophia-0212&show_icons=true&theme=react&hide_border=true&bg_color=20232a&icon_color=61dafb&title_color=61dafb&text_color=ffffff" alt="GitHub Stats" />
 </div>
 
 ## 🏆 GitHub 成就
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sophia-0212&theme=flat&row=1&color=70A5FD" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sophia-0212&theme=nord&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ## 📈 最常用的编程语言
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia-0212&layout=compact&theme=buefy" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia-0212&layout=compact&theme=react&hide_border=true&bg_color=20232a&icon_color=61dafb&title_color=61dafb&text_color=ffffff" alt="Top Languages" />
 </div>
 
 ## 🛠️ 技术栈与工具
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-Go-70A5FD?style=flat-square&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TypeScript-70A5FD?style=flat-square&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JavaScript-70A5FD?style=flat-square&logo=javascript&logoColor=white" />
-    <img src="https://img.shields.io/badge/-React-70A5FD?style=flat-square&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Node.js-70A5FD?style=flat-square&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Git-70A5FD?style=flat-square&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Go-2C3E50?style=for-the-badge&logo=go&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/-TypeScript-2C3E50?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/-JavaScript-2C3E50?style=for-the-badge&logo=javascript&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/-React-2C3E50?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/-Node.js-2C3E50?style=for-the-badge&logo=node.js&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/-Git-2C3E50?style=for-the-badge&logo=git&logoColor=61DAFB" />
 </div>
 
 ## 📊 活动图表
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sophia-0212&theme=react&bg_color=ffffff&color=70A5FD&line=70A5FD&point=70A5FD&area=true" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sophia-0212&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&color=61dafb" alt="Contribution Graph" />
 </div>
 
 ## 👀 访问计数
 
 <div align="center">
-    <img src="https://profile-counter.glitch.me/Sophia-0212/count.svg" alt="Visitor Count" />
+    <img src="https://profile-counter.glitch.me/Sophia-0212/count.svg" alt="Visitor Count" style="background: #20232a; padding: 10px; border-radius: 5px;" />
 </div>
 
 ---
