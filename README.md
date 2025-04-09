@@ -64,6 +64,4 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sophia-0212/Sophia-0212/output/github-snake.svg" />
   </picture>
   
-  <!-- GIF 版本 -->
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sophia-0212/Sophia-0212/output/ocean.gif" />
 </div>
