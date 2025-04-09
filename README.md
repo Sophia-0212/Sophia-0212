@@ -47,13 +47,6 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sophia-0212&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&color=61dafb" alt="Contribution Graph" />
 </div>
-
-## 👀 访问计数
-
-<div align="center">
-    <img src="https://profile-counter.glitch.me/Sophia-0212/count.svg" alt="Visitor Count" style="background: #20232a; padding: 10px; border-radius: 5px;" />
-</div>
-
 ---
 
 <div align="center">
