@@ -41,20 +41,3 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sophia-0212&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&color=61dafb" alt="Contribution Graph" />
 </div>
-
-## 👀 访问计数
-
-<div align="center">
-    <img src="https://profile-counter.glitch.me/Sophia-0212/count.svg" alt="Visitor Count" style="background: #20232a; padding: 10px; border-radius: 5px;" />
-</div>
-
----
-
-<div align="center">
-  <!-- SVG 版本 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sophia-0212/Sophia-0212/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sophia-0212/Sophia-0212/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sophia-0212/Sophia-0212/output/github-snake.svg" />
-  </picture>
-</div>
