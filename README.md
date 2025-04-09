@@ -10,6 +10,7 @@
 - 💡 I love exploring new technologies
 - 🎯 Goals: Contribute more to open source projects
 - ✨ Passionate about creating beautiful and efficient code
+- 🌟 Always eager to learn and share knowledge
 
 ## 📊 GitHub Stats
 
