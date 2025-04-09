@@ -23,6 +23,14 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          svg_out_path: dist/github-snake.svg
+          snake_color: '#1abc9c'
+          layout: contour
+          animation_speed: 20
+          grid_size: 15,15
+          generate_grid: true
+          max_grid_size: 40
+          trim_grid: false
 
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0

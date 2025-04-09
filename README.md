@@ -1,49 +1,43 @@
-# 👋 Hi there, I'm mimi
+# 👋 你好，我是 mimi
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+passionate+about+coding+and+technology" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=欢迎来到我的+GitHub+个人主页！;我热爱编程和技术" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## 🚀 关于我
 
-- 🌱 I'm currently learning and growing every day
-- 💡 I love exploring new technologies
-- 🎯 Goals: Contribute more to open source projects
-- ✨ Passionate about creating beautiful and efficient code
-- 🌟 Always eager to learn and share knowledge
+> 🎯 FE、RD、BUG路由器、INTP
 
-## 🔥 Featured Projects
+- 🌱 我正在不断学习和成长
+- 💡 我热爱探索新技术
+- 🎯 目标：为更多开源项目做贡献
+- ✨ 热衷于创造优雅高效的代码
 
-### FlowChat Series
-- [FlowChatIM](https://github.com/Sophia-0212/FlowChatIM) - Instant Messaging Application (Go)
-- [FlowChatServer](https://github.com/Sophia-0212/FlowChatServer) - Backend Server (Go)
-- [FlowChatWeb](https://github.com/Sophia-0212/FlowChatWeb) - Web Client (TypeScript)
-
-## 📊 GitHub Stats
+## 📊 GitHub 统计
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Sophia-0212&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
-## 🔥 Streak Stats
+## 🔥 连续提交统计
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sophia-0212&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub 成就
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Sophia-0212&theme=tokyonight&row=1" alt="GitHub Trophies" />
 </div>
 
-## 📈 Most Used Languages
+## 📈 最常用的编程语言
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia-0212&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-## 🛠️ Technologies & Tools
+## 🛠️ 技术栈与工具
 
 <div align="center">
     <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -54,13 +48,13 @@
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
 
-## 📊 Activity Graph
+## 📊 活动图表
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sophia-0212&theme=tokyo-night" alt="Contribution Graph" />
 </div>
 
-## 👀 Visitor Count
+## 👀 访问计数
 
 <div align="center">
     <img src="https://profile-counter.glitch.me/Sophia-0212/count.svg" alt="Visitor Count" />
@@ -69,9 +63,13 @@
 ---
 
 <div align="center">
+  <!-- SVG 版本 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sophia-0212/Sophia-0212/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sophia-0212/Sophia-0212/output/github-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sophia-0212/Sophia-0212/output/github-snake.svg" />
   </picture>
+  
+  <!-- GIF 版本 -->
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sophia-0212/Sophia-0212/output/ocean.gif" />
 </div>
