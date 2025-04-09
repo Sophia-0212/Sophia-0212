@@ -19,12 +19,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Sophia-0212&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
-## 🔥 连续提交统计
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sophia-0212&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 🏆 GitHub 成就
 
 <div align="center">
