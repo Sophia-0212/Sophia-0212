@@ -13,6 +13,12 @@
 - 🎯 目标：为更多开源项目做贡献
 - ✨ 热衷于创造优雅高效的代码
 
+## 📊 GitHub 统计
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sophia-0212&show_icons=true&theme=react&hide_border=true&bg_color=20232a&icon_color=61dafb&title_color=61dafb&text_color=ffffff" alt="GitHub Stats" />
+</div>
+
 ## 📈 最常用的编程语言
 
 <div align="center">
@@ -28,4 +34,27 @@
     <img src="https://img.shields.io/badge/-React-2C3E50?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/-Node.js-2C3E50?style=for-the-badge&logo=node.js&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/-Git-2C3E50?style=for-the-badge&logo=git&logoColor=61DAFB" />
+</div>
+
+## 📊 活动图表
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sophia-0212&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&color=61dafb" alt="Contribution Graph" />
+</div>
+
+## 👀 访问计数
+
+<div align="center">
+    <img src="https://profile-counter.glitch.me/Sophia-0212/count.svg" alt="Visitor Count" style="background: #20232a; padding: 10px; border-radius: 5px;" />
+</div>
+
+---
+
+<div align="center">
+  <!-- SVG 版本 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sophia-0212/Sophia-0212/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sophia-0212/Sophia-0212/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sophia-0212/Sophia-0212/output/github-snake.svg" />
+  </picture>
 </div>
