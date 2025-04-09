@@ -19,12 +19,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Sophia-0212&show_icons=true&theme=react&hide_border=true&bg_color=20232a&icon_color=61dafb&title_color=61dafb&text_color=ffffff" alt="GitHub Stats" />
 </div>
 
-## 🏆 GitHub 成就
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sophia-0212&theme=onestar&column=7&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
 ## 📈 最常用的编程语言
 
 <div align="center">
