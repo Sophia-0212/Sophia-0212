@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sophia
+# 👋 Hi there, I'm mimi
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+passionate+about+coding+and+technology" alt="Typing SVG" />
@@ -11,6 +11,13 @@
 - 🎯 Goals: Contribute more to open source projects
 - ✨ Passionate about creating beautiful and efficient code
 - 🌟 Always eager to learn and share knowledge
+
+## 🔥 Featured Projects
+
+### FlowChat Series
+- [FlowChatIM](https://github.com/Sophia-0212/FlowChatIM) - Instant Messaging Application (Go)
+- [FlowChatServer](https://github.com/Sophia-0212/FlowChatServer) - Backend Server (Go)
+- [FlowChatWeb](https://github.com/Sophia-0212/FlowChatWeb) - Web Client (TypeScript)
 
 ## 📊 GitHub Stats
 
@@ -39,8 +46,9 @@
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -61,13 +69,9 @@
 ---
 
 <div align="center">
-  <!-- SVG version -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sophia-0212/Sophia-0212/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sophia-0212/Sophia-0212/output/github-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sophia-0212/Sophia-0212/output/github-snake.svg" />
   </picture>
-  
-  <!-- GIF version -->
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sophia-0212/Sophia-0212/output/ocean.gif" />
 </div>
